@@ -1,0 +1,8 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+.vs/
+out/
+build/
+vc140.pdb
